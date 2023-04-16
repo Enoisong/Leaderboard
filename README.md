@@ -1,4 +1,4 @@
-# Todo List Project
+# Leaderboard Project
 <a name="readme-top"></a>
  # 📗 Table of Contents
 - [📖 About the Project](#about-project)
@@ -22,23 +22,23 @@
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
-# 📖  Todo List  <a name="about-project"></a> 
+# 📖  Leaderboard  <a name="about-project"></a> 
  
-"Todo List" is a simple web application that displays a list of task and allow you to add and remove task from that list.
+"Leaderboard" is an app that displays scores submitted by different players. It uses API to get data and post new scores.
 
 ## 🛠 Built With <a name="built-with"></a>
 - HTML
 - CSS
 - JavaScript (ES6)
-- Webpack
-- jest
+- Webpack 
+- Gitflow
 
 ### Tech Stack <a name="tech-stack"></a>
 - HTML
 - CSS
 - javascript
 - Webpack
-- jest
+- Gitflow
 - Version Control (GitHub)
  
 <!-- Features -->
@@ -47,12 +47,13 @@
 - CSS3
 - HTML5 semantics
 - Webpack
+-  Gitflow
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 ## 🚀 Live Demo <a name="live-demo"></a>
- 
+ Available after merge.
 
 ## 💻 Getting Started <a name="getting-started"></a>
 clone from repository: https://github.com/Enoisong/TodoList.git
