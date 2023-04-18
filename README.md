@@ -56,7 +56,7 @@
  Available after merge.
 
 ## 💻 Getting Started <a name="getting-started"></a>
-clone from repository: https://github.com/Enoisong/TodoList.git
+clone from repository: https://github.com/Enoisong/Leaderboard.git
 
 ### Prerequisites
 In order to run this project you need to:
@@ -66,7 +66,7 @@ In order to run this project you need to:
 
 ### Setup
 Clone this repository to your desired folder: 
-https://github.com/Enoisong/TodoList.git
+https://github.com/Enoisong/Leaderboard.git
 
 ### Install
 Install this project with:
@@ -105,8 +105,7 @@ It will be deployed after merge
 ## 🔭 Future Features <a name="future-features"></a>
 -   [] **To Add more dynamics to the project; feature like animation 
     and transition
-    -[]** To integrate backend.
-
+ 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
