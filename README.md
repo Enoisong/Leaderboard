@@ -47,7 +47,7 @@
 - CSS3
 - HTML5 semantics
 - Webpack
--  Gitflow
+- Gitflow
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -56,7 +56,18 @@
  Available after merge.
 
 ## 💻 Getting Started <a name="getting-started"></a>
-clone from repository: https://github.com/Enoisong/Leaderboard.git
+
+after cloning
+```
+git clone repository: https://github.com/Enoisong/Leaderboard.git
+cd Leaderboard
+
+```
+After that
+```
+-  npm install
+-  npm start
+```
 
 ### Prerequisites
 In order to run this project you need to:
@@ -75,6 +86,7 @@ Install this project with:
 - Github.
 
 ### Usage
+
 ### To run the project, execute the following command:  
 - Git clone <>
 - Install the Live server extension of the VScode and run Go Live
