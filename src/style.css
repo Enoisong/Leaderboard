@@ -10,11 +10,11 @@
 
 body {
   color: #fff;
-  background-image: 
-  linear-gradient(to right bottom,  #be915a9c, #ffffff09),
-  url("./assets/main.jpg");
+  background-image:
+    linear-gradient(to right bottom, #be915a9c, #ffffff09),
+    url("./assets/main.jpg");
   background-repeat: no-repeat;
-  background-position: center;  
+  background-position: center;
   background-size: cover;
   font-family: "Chakra Petch", sans-serif;
   text-align: center;
@@ -92,11 +92,17 @@ button {
   padding: 5px 10px;
   cursor: pointer;
   background-color: #fff;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  box-shadow: 0 0 0 4px #5f2402;
+  transition: 0.7s;
+  outline-color: transparent;
+  outline-style: solid;
 }
 
 button:hover {
   transform: scale(1.07);
-  background-color: #be915aee;
+  background-color: #eb4f12;
 }
 
 button:active {
