@@ -56,43 +56,29 @@
  Available after merge.
 
 ## 💻 Getting Started <a name="getting-started"></a>
+ 
+## Prerequisites
 
-after cloning
-```
-git clone repository: https://github.com/Enoisong/Leaderboard.git
-cd Leaderboard
-
-```
-After that
-```
--  npm install
--  npm start
-```
-
-### Prerequisites
-In order to run this project you need to:
-- Install GIt
-- Install Live server VScode extension and run Go Live
-- Install a Command Line Interface to clone project-Git bash/Terminal
-
-### Setup
+## How to Setup this app:
 Clone this repository to your desired folder: 
 https://github.com/Enoisong/Leaderboard.git
-
-### Install
+## Install
 Install this project with:
 - VSCode
 - Git.
 - Github.
 
-### Usage
-
-### To run the project, execute the following command:  
+## Usage
+## How to run this app:
+In order to run this project you need to:
+- Install GIt
 - Git clone <>
-- Install the Live server extension of the VScode and run Go Live
+- Install Live server VScode extension and run Go Live
+- Install a Command Line Interface to clone project-Git bash/Terminal
+- npm install
+- npm start
 
-### Run tests
-
+## How to test this app:
 To run linters tests, run the following command: 
 npx hint .
 npx stylelint "**/*.{css,scss}"
@@ -107,9 +93,6 @@ It will be deployed after merge
 <!-- AUTHORS -->
 ## 👥 Author <a name="author"></a> 
 - Enobong Isong
- 
-👤 **Author**
-👤 **Author**
 - GitHub: [@githubhandle](https://github.com/Enoisong)
 - Twitter: [@twitterhandle](https://twitter.com/Enobongmisong)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/enobong-isong/)
