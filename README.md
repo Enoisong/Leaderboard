@@ -52,6 +52,7 @@
 - API
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- LIVE DEMO -->
 ## 🚀 Live Demo <a name="live-demo"></a>
  Available after merge.
@@ -90,6 +91,7 @@ npx eslint .
 It will be deployed after merge
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- AUTHORS -->
 ## 👥 Author <a name="author"></a> 
 - Enobong Isong
@@ -104,6 +106,7 @@ It will be deployed after merge
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
+
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, as well as feature requests are welcome!
